@@ -10,5 +10,4 @@ loaded.
 # The author takes no respnsibility for unsafe or foolish use of this circuit!
 # Be CAREFUL!
 
-# If you do not have experience working with high voltages, make sure you get someone experienced to
-# help you.
+# If you do not have experience working with high voltages, make sure you get someone experienced to help you.
