@@ -7,7 +7,7 @@ The lamps can be configured to flash sequentially or randomly depending on how s
 loaded.
 
 # Power input is 90 - 120 Volts, so caution must be used!
-# The author takes no respnsibility for unsafe or foolish use of this circuit!
+# The author takes no responsibility for unsafe or foolish use of this circuit!
 # Be CAREFUL!
 
 # If you do not have experience working with high voltages, make sure you get someone experienced to help you.
